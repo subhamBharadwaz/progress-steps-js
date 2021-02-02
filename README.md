@@ -1,2 +1,2 @@
-# progress-steps-js
+# Progress-steps-js
 project-url: https://subhambharadwaz.github.io/progress-steps-js/
